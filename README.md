@@ -46,5 +46,4 @@ The code is written in C++ (mostly C-style syntax). For Lempel and Golomb-based 
 I wrote these codes for my MSc thesis in 2014, and I am sharing them 10 years later. Contributions are welcome! If you use or improve upon this code, please cite my work as follows:
 
 •	Citation for the paper: F. Güleç and E. Afacan, "Usage of Costas arrays in Low Probability of Intercept radars," 2015 23nd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, 2015, pp. 347-350, doi: 10.1109/SIU.2015.7129830.
-![image](https://github.com/user-attachments/assets/9301fea3-bccb-4b36-9a42-67b2257a0ab6)
 
