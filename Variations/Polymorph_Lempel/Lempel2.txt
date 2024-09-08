@@ -1,0 +1,11 @@
+
+For primitive element:{1 1 0 0 1 }
+(14)th order Costas Array :
+{4 8 14 1 10 13 9 2 7 5 12 11 6 3 }
+(q-3)th order Costas Array can not be constructed.
+ 
+For primitive element:{1 0 0 1 1 }
+(14)th order Costas Array :
+{12 9 4 3 10 8 13 6 2 5 14 1 7 11 }
+(q-3)th order Costas Array can not be constructed.
+ 

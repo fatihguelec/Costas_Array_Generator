@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725789371 source:c:\d\ylisans\github\variations\golomb_g4_g5\g4-g5.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+

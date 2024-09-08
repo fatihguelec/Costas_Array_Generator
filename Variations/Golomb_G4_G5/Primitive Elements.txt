@@ -1,0 +1,9 @@
+q=9
+p=3
+k=2
+Number of primitive elements: 2
+Primitive Elements:
+{2 1 1 } = 2*x^0 + 1*x^1 + 1*x^2
+{2 2 1 } = 2*x^0 + 2*x^1 + 1*x^2
+Number of (5)th order G4 Costas Arrays = 1
+Number of (4)th order G5 Costas Arrays = 1

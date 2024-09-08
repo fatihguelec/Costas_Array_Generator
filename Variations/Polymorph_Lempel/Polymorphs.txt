@@ -1,0 +1,12 @@
+Polymorphs of the Costas Array = { 4  8 14  1 10 13  9  2  7  5 12 11  6  3 }
+{11 7 1 14 5 2 6 13 8 10 3 4 9 12 }
+{12 9 4 3 10 8 13 6 2 5 14 1 7 11 }
+{3 6 11 12 5 7 2 9 13 10 1 14 8 4 }
+Diagonally Symmetric
+
+Polymorphs of the Costas Array = {12  9  4  3 10  8 13  6  2  5 14  1  7 11 }
+{3 6 11 12 5 7 2 9 13 10 1 14 8 4 }
+{4 8 14 1 10 13 9 2 7 5 12 11 6 3 }
+{11 7 1 14 5 2 6 13 8 10 3 4 9 12 }
+Diagonally Symmetric
+

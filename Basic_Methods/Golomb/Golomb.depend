@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1725780538 source:c:\d\ylisans\github\golomb\golomb2.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1725798509 source:c:\d\ylisans\github\basic_methods\golomb\golomb2.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+

@@ -1,0 +1,10 @@
+q=9
+p=3
+k=2
+Number of primitive elements: 2
+Primitive Elements:
+{2 1 1 } = 2*x^0 + 1*x^1 + 1*x^2
+{2 2 1 } = 2*x^0 + 2*x^1 + 1*x^2
+Number of (7)th order Costas Arrays = 8
+Number of (6)th order Costas Arrays = 1
+Number of (5)th order Costas Arrays = 0

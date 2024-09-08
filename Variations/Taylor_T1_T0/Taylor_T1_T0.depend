@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725799349 source:c:\d\ylisans\github\variations\taylor_t1_t0\t1-t0.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+

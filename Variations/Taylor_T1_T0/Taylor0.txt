@@ -1,0 +1,16 @@
+Taylor0 Variant for Costas Array :{2 1 6 4 7 3 5 }
+
+Taylor0 Variant for Costas Array :{6 3 2 4 5 1 7 }
+
+Taylor0 Variant for Costas Array :{2 5 6 4 3 7 1 }
+
+Taylor0 Variant for Costas Array :{6 7 2 4 1 5 3 }
+
+Taylor0 Variant for Costas Array :{3 5 1 4 2 7 6 }
+
+Taylor0 Variant for Costas Array :{1 7 3 4 6 5 2 }
+
+Taylor0 Variant for Costas Array :{7 1 5 4 2 3 6 }
+
+Taylor0 Variant for Costas Array :{5 3 7 4 6 1 2 }
+

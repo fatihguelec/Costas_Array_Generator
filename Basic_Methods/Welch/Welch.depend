@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725622974 source:c:\d\ylisans\github\welch\welch1.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

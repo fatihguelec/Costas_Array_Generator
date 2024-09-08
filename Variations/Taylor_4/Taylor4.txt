@@ -1,0 +1,10 @@
+(q-4)th order Costas Array can not be constructed.
+
+For primitive element:{5 1 } = 5*x^0 + 1*x^1
+(15)th order Costas Array :
+{13 5 3 9 2 14 11 15 4 12 7 10 1 6 8 }
+
+(q-4)th order Costas Array can not be constructed.
+(q-4)th order Costas Array can not be constructed.
+(q-4)th order Costas Array can not be constructed.
+(q-4)th order Costas Array can not be constructed.

@@ -1,0 +1,4 @@
+
+For primitive element:{2 2 1 } = 2*x^0 + 2*x^1 + 1*x^2 and for beta = a
+(4)th order G5 Costas Array :
+{1 2 4 3 }

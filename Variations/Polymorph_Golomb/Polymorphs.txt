@@ -1,0 +1,69 @@
+Polymorphs of the Costas Array = { 2  1  6  4  7  3  5 }
+{6 7 2 4 1 5 3 }
+{3 5 1 4 2 7 6 }
+{5 3 7 4 6 1 2 }
+Diagonally Symmetric
+
+Polymorphs of the Costas Array = { 6  3  2  4  5  1  7 }
+{2 5 6 4 3 7 1 }
+{1 7 3 4 6 5 2 }
+{7 1 5 4 2 3 6 }
+Diagonally Symmetric
+
+Polymorphs of the Costas Array = { 2  5  6  4  3  7  1 }
+{1 7 3 4 6 5 2 }
+{7 1 5 4 2 3 6 }
+{6 3 2 4 5 1 7 }
+{7 1 5 4 2 3 6 } //Diagonal
+{6 3 2 4 5 1 7 }
+{2 5 6 4 3 7 1 }
+{1 7 3 4 6 5 2 }
+
+Polymorphs of the Costas Array = { 6  7  2  4  1  5  3 }
+{3 5 1 4 2 7 6 }
+{5 3 7 4 6 1 2 }
+{2 1 6 4 7 3 5 }
+{5 3 7 4 6 1 2 } //Diagonal
+{2 1 6 4 7 3 5 }
+{6 7 2 4 1 5 3 }
+{3 5 1 4 2 7 6 }
+
+Polymorphs of the Costas Array = { 3  5  1  4  2  7  6 }
+{5 3 7 4 6 1 2 }
+{2 1 6 4 7 3 5 }
+{6 7 2 4 1 5 3 }
+Diagonally Symmetric
+
+Polymorphs of the Costas Array = { 1  7  3  4  6  5  2 }
+{7 1 5 4 2 3 6 }
+{6 3 2 4 5 1 7 }
+{2 5 6 4 3 7 1 }
+Diagonally Symmetric
+
+Polymorphs of the Costas Array = { 6  2  3  5  4  1 }
+{1 5 4 2 3 6 }
+{6 3 2 4 5 1 }
+{1 4 5 3 2 6 }
+{6 2 3 5 4 1 } //Diagonal
+{1 5 4 2 3 6 }
+{6 3 2 4 5 1 }
+{1 4 5 3 2 6 }
+
+Polymorphs of the Costas Array = { 7  1  5  4  2  3  6 }
+{6 3 2 4 5 1 7 }
+{2 5 6 4 3 7 1 }
+{1 7 3 4 6 5 2 }
+{2 5 6 4 3 7 1 } //Diagonal
+{1 7 3 4 6 5 2 }
+{7 1 5 4 2 3 6 }
+{6 3 2 4 5 1 7 }
+
+Polymorphs of the Costas Array = { 5  3  7  4  6  1  2 }
+{2 1 6 4 7 3 5 }
+{6 7 2 4 1 5 3 }
+{3 5 1 4 2 7 6 }
+{6 7 2 4 1 5 3 } //Diagonal
+{3 5 1 4 2 7 6 }
+{5 3 7 4 6 1 2 }
+{2 1 6 4 7 3 5 }
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1725778341 source:c:\d\ylisans\github\lempel\lempel1.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+
+1725789006 source:c:\d\ylisans\github\basic_methods\lempel\lempel1.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+
